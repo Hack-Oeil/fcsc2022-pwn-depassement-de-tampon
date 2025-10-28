@@ -3,7 +3,7 @@
 On vous demande d’exploiter le binaire fourni pour lire le fichier **flag** qui se trouve sur le serveur distant.
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Dépassement de tampon](https://hackropole.fr/fr/challenges/pwn/fcsc2022-pwn-depassement-de-tampon/)
 
